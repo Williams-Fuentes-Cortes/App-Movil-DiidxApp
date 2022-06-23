@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Se diseñó y desarrolló una aplicación móvil para los sistemas operativos iOS y Android. Con la finalidad de fomentar, fortalecer y preservar la lengua indígena zapoteca Diidxazá en su variante de San Blas Atempa, Oaxaca.
 
 A few resources to get you started if this is your first Flutter project:
 
