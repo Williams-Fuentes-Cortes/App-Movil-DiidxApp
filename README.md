@@ -1,10 +1,8 @@
 # diidxapp
 
-A new Flutter project.
+Se diseñó y desarrolló una aplicación móvil para los sistemas operativos iOS y Android. Con la finalidad de fomentar, fortalecer y preservar la lengua indígena zapoteca Diidxazá en su variante de San Blas Atempa, Oaxaca.
 
 ## Getting Started
-
-Se diseñó y desarrolló una aplicación móvil para los sistemas operativos iOS y Android. Con la finalidad de fomentar, fortalecer y preservar la lengua indígena zapoteca Diidxazá en su variante de San Blas Atempa, Oaxaca.
 
 Algunos recursos para comenzar si este es su primer proyecto de Flutter:
 
